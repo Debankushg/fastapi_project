@@ -1,0 +1,19 @@
+{
+  "registration.email_exists": "A user with this email already exists",
+  "auth.invalid_credentials": "Invalid email or password",
+  "auth.inactive_account": "This account is inactive",
+  "auth.otp_sent": "OTP sent to your registered email",
+  "auth.invalid_otp": "Invalid email or OTP",
+  "auth.otp_expired": "OTP has expired, please login again",
+  "auth.credentials_error": "Could not validate credentials",
+  "profile.at_least_one_field": "Provide at least one field to update (name or address)",
+  "profile.image_invalid_type": "Only JPEG, PNG, or WEBP images are allowed",
+  "profile.image_too_large": "Image must be smaller than 5MB",
+  "otp_email.subject": "Your login OTP",
+  "otp_email.greeting": "Hello,",
+  "otp_email.intro": "Your One-Time Password (OTP) is:",
+  "otp_email.expiry": "This OTP will expire in {minutes} minutes.",
+  "otp_email.warning": "If you did not request this OTP, please ignore this email. For your security, do not share this code with anyone.",
+  "otp_email.regards": "Regards,",
+  "otp_email.team": "Your Support Team"
+}

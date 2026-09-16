@@ -1,0 +1,19 @@
+{
+  "registration.email_exists": "Er bestaat al een gebruiker met dit e-mailadres",
+  "auth.invalid_credentials": "Ongeldig e-mailadres of wachtwoord",
+  "auth.inactive_account": "Dit account is inactief",
+  "auth.otp_sent": "OTP verzonden naar uw geregistreerde e-mailadres",
+  "auth.invalid_otp": "Ongeldig e-mailadres of OTP",
+  "auth.otp_expired": "OTP is verlopen, log opnieuw in",
+  "auth.credentials_error": "Kon inloggegevens niet valideren",
+  "profile.at_least_one_field": "Geef ten minste één veld op om bij te werken (naam of adres)",
+  "profile.image_invalid_type": "Alleen JPEG-, PNG- of WEBP-afbeeldingen zijn toegestaan",
+  "profile.image_too_large": "De afbeelding moet kleiner zijn dan 5MB",
+  "otp_email.subject": "Uw inlog-OTP",
+  "otp_email.greeting": "Hallo,",
+  "otp_email.intro": "Uw eenmalig wachtwoord (OTP) is:",
+  "otp_email.expiry": "Deze OTP verloopt over {minutes} minuten.",
+  "otp_email.warning": "Als u deze OTP niet heeft aangevraagd, negeer dan deze e-mail. Deel deze code met niemand.",
+  "otp_email.regards": "Met vriendelijke groet,",
+  "otp_email.team": "Uw ondersteuningsteam"
+}

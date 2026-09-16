@@ -1,0 +1,19 @@
+{
+  "registration.email_exists": "Ein Benutzer mit dieser E-Mail-Adresse existiert bereits",
+  "auth.invalid_credentials": "Ungültige E-Mail-Adresse oder ungültiges Passwort",
+  "auth.inactive_account": "Dieses Konto ist inaktiv",
+  "auth.otp_sent": "OTP wurde an Ihre registrierte E-Mail-Adresse gesendet",
+  "auth.invalid_otp": "Ungültige E-Mail-Adresse oder OTP",
+  "auth.otp_expired": "OTP ist abgelaufen, bitte melden Sie sich erneut an",
+  "auth.credentials_error": "Anmeldedaten konnten nicht validiert werden",
+  "profile.at_least_one_field": "Geben Sie mindestens ein Feld zum Aktualisieren an (Name oder Adresse)",
+  "profile.image_invalid_type": "Nur JPEG-, PNG- oder WEBP-Bilder sind erlaubt",
+  "profile.image_too_large": "Das Bild muss kleiner als 5MB sein",
+  "otp_email.subject": "Ihr Login-OTP",
+  "otp_email.greeting": "Hallo,",
+  "otp_email.intro": "Ihr Einmalpasswort (OTP) lautet:",
+  "otp_email.expiry": "Dieses OTP läuft in {minutes} Minuten ab.",
+  "otp_email.warning": "Wenn Sie dieses OTP nicht angefordert haben, ignorieren Sie bitte diese E-Mail. Teilen Sie diesen Code aus Sicherheitsgründen mit niemandem.",
+  "otp_email.regards": "Mit freundlichen Grüßen,",
+  "otp_email.team": "Ihr Support-Team"
+}
