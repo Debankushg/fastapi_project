@@ -8,7 +8,13 @@ from app.api.router import api_router
 from app.core.config import settings
 from app.db.base import Base
 from app.db.session import engine
-from app.models import otp, user  # noqa: F401  (registers models with Base.metadata)
+from app.models import (  # noqa: F401  (registers models with Base.metadata)
+    cart,
+    order,
+    otp,
+    product,
+    user,
+)
 
 UPLOAD_DIR = Path("uploads")
 UPLOAD_DIR.mkdir(parents=True, exist_ok=True)

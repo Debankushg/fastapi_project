@@ -12,7 +12,7 @@ LANGUAGE_COOKIE_NAME = "lang"
 
 @lru_cache
 def _load_translations(language: str) -> dict[str, str]:
-    path = LOCALES_DIR / f"{language}.json"
+    path = CONTENT_DIR / f"{language}.json"
     return json.loads(path.read_text(encoding="utf-8"))
 
 
